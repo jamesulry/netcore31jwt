@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNERCore31_JWT", "ASPNERCore31_JWT\ASPNERCore31_JWT.csproj", "{A1D569D5-39F3-4CED-95E1-DA3E23B41457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASPNERCore31_JWT", "ASPNERCore31_JWT.csproj", "{E4764F21-0659-4892-BA69-61F28E626643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A1D569D5-39F3-4CED-95E1-DA3E23B41457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1D569D5-39F3-4CED-95E1-DA3E23B41457}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1D569D5-39F3-4CED-95E1-DA3E23B41457}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1D569D5-39F3-4CED-95E1-DA3E23B41457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4764F21-0659-4892-BA69-61F28E626643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4764F21-0659-4892-BA69-61F28E626643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4764F21-0659-4892-BA69-61F28E626643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4764F21-0659-4892-BA69-61F28E626643}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
